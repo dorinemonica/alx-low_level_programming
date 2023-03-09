@@ -5,7 +5,7 @@
  *
  * @s: string input
  *
- * Return (0)
+ * Return: (0)
  */
 
 int _strlen_recursion(char *s)
